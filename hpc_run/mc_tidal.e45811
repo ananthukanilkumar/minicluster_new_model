@@ -1,0 +1,741 @@
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/hpc_run/minicluster_multiple.py:102: RuntimeWarning: overflow encountered in scalar divide
+  col_time=tupd/N_encounter_with_star
+/suphys/aani0116/Work/minicluster_model_new/hpc_run/minicluster_multiple.py:102: RuntimeWarning: divide by zero encountered in scalar divide
+  col_time=tupd/N_encounter_with_star
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:8: RuntimeWarning: divide by zero encountered in log10
+  get_dm_frac=lambda dE_dummy:10**dm_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:11: RuntimeWarning: divide by zero encountered in log10
+  get_fej=lambda dE_dummy:fej_interp(np.log10(dE_dummy))
+/suphys/aani0116/Work/minicluster_model_new/my_modules/mass_loss_new.py:17: RuntimeWarning: divide by zero encountered in log10
+  get_fub=lambda dE_dummy:fub_interp(np.log10(dE_dummy))
+Traceback (most recent call last):
+  File "/suphys/aani0116/Work/minicluster_model_new/hpc_run/minicluster_multiple.py", line 199, in <module>
+    SD_1.append(SD[-5:-1,0].mean())
+                ~~^^^^^^^^^
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed

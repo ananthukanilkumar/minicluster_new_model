@@ -170,7 +170,7 @@ for i in range(100):
     t_array=np.linspace(0,simulation_time,1000)
     orbit_array=orb(t_array)
 
-    np.savez(f"data_mcp/mc{i}.npy",
+    """np.savez(f"data_mcp/mc{i}.npy",
                 alive=alive,
                 mcp_xv=mcp_xv,
                 mcp_mass=mcp_mass,
@@ -186,7 +186,7 @@ for i in range(100):
                 SD_r=SD_r,
                 mass_array=mass_array,
                 radius_array=radius_array
-                )
+                )"""
     
     
     

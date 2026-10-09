@@ -41,18 +41,24 @@ def stellar_energy(N,M,R,v,its_sum):
     else:
         return E_rms_sum
 
-for i in range(20,100):  
+for i in range(5):  
     print(i)  
 
     mc = Minicluster(mass=get_mass(), delta=50, concentration=10)
-    Nbody_total=1e4
+    Nbody_total=1e5
     pmass=mc.mass/Nbody_total
 
 
     simulation_time=10
     flag='alive'
-    final_pos=np.array([8.0,0.0,0.0,1.0,1.0,220.0])
+    #final_pos=np.array([8.0,1.0,0.0,5.0,5.0,220.0])
+    #mc_center=reverse_orbit(ic=final_pos,pot= pot_mw,time=simulation_time,timestart=0,show_start=0)
+    s_pos=[8.0,0.0,0.0]  #end at solar_pos, but v is different , hence e is different
+    final_pos=generate_xv_at(s_pos,1)[0]
     mc_center=reverse_orbit(ic=final_pos,pot= pot_mw,time=simulation_time,timestart=0,show_start=0)
+    print(mc_center)
+    
+    
     mc_start=mc_center.copy()
     mc_end=final_pos.copy()
     mcp_xv,mcp_mass=np.empty((0, 6)),np.array([])     
@@ -82,7 +88,7 @@ for i in range(20,100):
     
     while time_i < simulation_time:
 
-        mc_time_center, mc_orbit_center = agama.orbit(ic=mc_center, potential=pot_mw, time=tupd,timestart=time_i,dtype=float, trajsize=100, accuracy=1e-16,verbose=False)
+        mc_time_center, mc_orbit_center = agama.orbit(ic=mc_center, potential=pot_mw, time=tupd,timestart=time_i,dtype=float, trajsize=1000, accuracy=1e-16,verbose=False)
 
         N_encounter_with_star=N_encounter_new(mc_time_center, mc_orbit_center,b_max=0.0001)
         N_encounter_with_star_array.append(N_encounter_with_star)
@@ -155,7 +161,7 @@ for i in range(20,100):
 
         time_i += tupd
         #SVT
-        if mcp_xv.size>1000 and SD_count%10==0:
+        if mcp_xv.size>1000 and SD_count%1==0:
             mcp_xc=mcp_xv[:,:3]-mcp_xv[:,:3].mean(axis=0)
             pca=PCA(n_components=3)
             mcp_xr=pca.fit_transform(mcp_xc)
