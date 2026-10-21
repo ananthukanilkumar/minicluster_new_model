@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 from IPython.display import Latex
 import sys
 sys.path.append('/suphys/aani0116/Work/minicluster_model_new/my_modules/')
-
 from scipy.stats import uniform_direction
 from reverse_orbit import reverse_orbit
 from mc_declare import *
@@ -22,7 +21,6 @@ from radius_and_energy import *
 from sklearn.decomposition import PCA
 from mc_xv import generate_xv_at,generate_xv
 np.seterr(divide='ignore', invalid='ignore')
-
 import corner
 
 kappa=3.54
